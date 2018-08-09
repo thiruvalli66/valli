@@ -17,8 +17,8 @@ class Armstrong
 			number /=10;
 		}
 		if(total==num)
-		System.out.println(num + "is an Armstrong number");
+		System.out.println("yes");
 		else
-		System.out.println(num + "is not an armstrong number");
+		System.out.println("no");
 	}
 }
