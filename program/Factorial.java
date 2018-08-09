@@ -15,6 +15,6 @@ class Factorial
 			//Factorial = factorial *i;
 			Factorial *= i;
 		}
-		System.out.printf("Factorial of %d=%d",num,Factorial);
+		System.out.printf("%d=%d",num,Factorial);
 		}
 }
